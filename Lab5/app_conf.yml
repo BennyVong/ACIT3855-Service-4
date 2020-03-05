@@ -1,5 +1,0 @@
-version: 1
-kafka:
-  domain: "localhost"
-  port: "9092"
-  topic: "events"
