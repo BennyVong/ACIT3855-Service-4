@@ -1,0 +1,4 @@
+Flask_Cors==3.0.8
+connexion==2.6.0
+pykafka==2.8.0
+PyYAML==5.3
