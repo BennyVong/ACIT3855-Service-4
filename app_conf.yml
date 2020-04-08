@@ -1,5 +1,5 @@
 version: 1
 kafka:
-  domain: "localhost"
+  domain: "ec2-54-213-226-141.us-west-2.compute.amazonaws.com"
   port: "9092"
   topic: "events"
